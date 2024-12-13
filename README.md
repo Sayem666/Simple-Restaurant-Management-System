@@ -1,4 +1,6 @@
 Restaurant Management System
+
+
 The Restaurant Management System is designed to streamline the operations of food ordering and payment processes. The system includes the following key features:
 
 Customer Deatures
